@@ -1,0 +1,16 @@
+Screenshot of /actuator/health and /actuator/prometheus-
+
+/Users/SHRIRAJP/Downloads/Screenshot 2025-11-05 at 3.21.30 PM.png
+/Users/SHRIRAJP/Downloads/Screenshot 2025-11-05 at 3.18.40 PM.png
+
+
+Screenshot of Prometheus target showing UP
+/Users/SHRIRAJP/Downloads/Screenshot 2025-11-05 at 3.22.22 PM (1).png
+
+
+Grafana dashboard displaying JVM memory and CPU usage
+/Users/SHRIRAJP/Downloads/Screenshot 2025-11-05 at 3.24.40 PM.png
+
+Screenshot or description of received email alert
+/Users/SHRIRAJP/Downloads/Screenshot 2025-11-05 at 3.26.15 PM.png
+/Users/SHRIRAJP/Downloads/Screenshot 2025-11-05 at 3.26.54 PM (1).png
